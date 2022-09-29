@@ -1,0 +1,1 @@
+teme curs testare automata IT FACTORY

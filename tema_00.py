@@ -1,3 +1,4 @@
+# de verificat ex.1 si ex.3
 '''
 Exercitiul nr.2
 o variabila  = o zona din memoria unui calculator care contine diferite tipuri de date,
